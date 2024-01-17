@@ -1,0 +1,23 @@
+.headerStyle {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+   
+}
+
+
+
+.ancorTag a {
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 40px;
+}
+
+.ancorTag a:hover {
+    color: rgb(118, 225, 198);
+}
