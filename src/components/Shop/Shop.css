@@ -7,18 +7,7 @@
 .product-container{
     margin: 50px;
     display: grid;
-    grid-template-columns: repeat(3,1fr);
-    position: relative;
+    grid-template-columns: repeat(3,1fr);   
     
 }
 
-.cart-container{
-    border: 1px solid gray;
-    background-color: rgba(255, 153, 0, 0.30);
-    position: sticky;
-    top: 0;
-    
-}
-.sumaryStyle{
-    margin-left: 20px;
-}
